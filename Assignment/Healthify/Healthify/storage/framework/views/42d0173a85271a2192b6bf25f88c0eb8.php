@@ -1,0 +1,2 @@
+<?php echo $__env->make('backend.layout.header1', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->yieldContent('main_section1'); ?> <?php /**PATH C:\xampp\htdocs\mitasha\Healthify\resources\views/backend/layout/main1.blade.php ENDPATH**/ ?>
