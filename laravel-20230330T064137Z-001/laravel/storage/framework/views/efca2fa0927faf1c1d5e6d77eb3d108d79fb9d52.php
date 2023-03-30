@@ -1,0 +1,3 @@
+<?php echo $__env->make('backend.layout.login1', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+<?php echo $__env->yieldContent('main_section'); ?>
+<?php echo $__env->make('backend.layout.footer1', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\xampp\htdocs\mitasha\laravel\resources\views/backend/layout/main1.blade.php ENDPATH**/ ?>
